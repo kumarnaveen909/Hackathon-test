@@ -2,8 +2,8 @@
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>CAFMaven1</groupId>
-	<artifactId>CAFMavenProject</artifactId>
+	<groupId>test</groupId>
+	<artifactId>HackathonTeamB</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
 	<url>http://maven.apache.org</url>
@@ -161,8 +161,6 @@
 			<systemPath>C:\Program Files\Java\jdk1.8.0_181\lib\tools.jar
 			</systemPath>
 		</dependency>
-		
-
 
 	</dependencies>
 </project>
